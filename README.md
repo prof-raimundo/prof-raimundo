@@ -4,7 +4,7 @@
 
 <h4>Olá, seja bem vindo!
 <p>Meu nome é Raimundo. 
-<br>Professor Especialista em Docência para a Educação Profissional e Tecnológica e em Tecnologias Educacionais para a Educação Básica. Coordenador do Ensino Técnico na Escola de Ensino Médio EEEP Matia de Jesus Rodrigues Alves em Pacujá/CE.<br>
+<br>Professor Especialista em Docência para a Educação Profissional e Tecnológica e em Tecnologias Educacionais para a Educação Básica. Coordenador do Ensino Técnico na Escola de Ensino Médio EEEP Maria de Jesus Rodrigues Alves em Pacujá/CE.<br>
 
 <br>Um viciado em aprender e tenho como ofício ensinar. 
 <br>Estou em busca de ser um desenvolvedor para crescimento profissional.
