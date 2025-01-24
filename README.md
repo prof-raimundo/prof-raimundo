@@ -5,8 +5,9 @@
 <h4>Olá, seja bem vindo!
 <p>Meu nome é Raimundo. 
 <br>Tech Education Specialist at CENTEC/CE.<br>
-and Bachelor's Degree in Information Systems.<br>
 Teach Lead Education at Professional Hight School.<br>
+and Bachelor's Degree in Information Systems.<br>
+
 <br>Um viciado em aprender e tenho como ofício ensinar. 
 <br>Estou em busca de ser um desenvolvedor para crescimento profissional.
 <br>Sou apaixonado por tecnologia!</p></h4>
