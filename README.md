@@ -1,67 +1,111 @@
-<hr></hr>
+[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)&nbsp;
+# RAIMUNDO N. SOUSA
 
-# RAIMUNDO SOUSA
 
-<h4>Olá, seja bem vindo!
-<p>Meu nome é Raimundo. 
-<br>Professor Especialista em Docência para a Educação Profissional e Tecnológica e em Tecnologias Educacionais para a Educação Básica. Coordenador do Ensino Técnico na Escola de Ensino Médio EEEP Maria de Jesus Rodrigues Alves em Pacujá/CE.<br>
+<h4>Olá, seja bem vindo!</h4>
+    <p>Meu nome é Raimundo.</p>
+    <p>Sou Professor Especialista em Docência para a Educação Profissional e Tecnológica e em Tecnologias Educacionais para a Educação Básica.</p>
+    <p>Coordenador do Ensino Técnico em Escola de Ensino Médio Profissionalizante no Ceará.</p>
+    <p>Sou um viciado em aprender que tem como ofício ensinar.</p>
+    <p>Estou em busca de ser um desenvolvedor para crescimento profissional.
+    <h3>Sou apaixonado por tecnologias!</h3></p>
 
-<br>Um viciado em aprender e tenho como ofício ensinar. 
-<br>Estou em busca de ser um desenvolvedor para crescimento profissional.
-<br>Sou apaixonado por tecnologia!</p></h4>
-
-<hr></hr>
-
-### Conecte-se comigo:
-
-![GitHub followers](https://img.shields.io/github/followers/prof-raimundo?style=flat-square&labelColor=blue&color=green)
-
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=green&labelColor=blue&color=62F1CD)](mailto:prof.raiworld@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiworld_sousa/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/raiworld.sousa)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://https://discord.com/channels/@raiworld_one/)
 
 <hr></hr>
 
-### Habilidades:
+<h2>
+Conecte-se comigo:
+</h2>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/prof-raimundo?style=flat-square&labelColor=blue&color=green)&nbsp;
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=green&labelColor=blue&color=62F1CD)](mailto:prof.raiworld@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiworld_sousa/)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/raiworld.sousa)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://https://discord.com/channels/@raiworld_one/)&nbsp;
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)&nbsp;
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<h2>
+Habilidades:
+</h2>
 
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-
+![Microsoft Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)&nbsp;
+![MS-Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-<hr></hr>
+<h2>
+Cloud:
+</h2>
 
-### Aprendendo:
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
+![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)&nbsp;
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+<h2>
+Bootcamps e Certificações:
+</h2>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+- Set Up an App Dev Environment on Google Cloud - https://www.credly.com/badges/a5e46060-fe00-46d7-b635-b7af17f7dc01/public_url
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+- Implement Load Balancing on Compute Engine - https://www.credly.com/badges/596b09b1-a027-48ea-9f1c-6cc380ed3e75/public_url
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+- Build a Secure Google Cloud Network - https://www.credly.com/badges/42aa76e6-c7dd-4e16-b9b3-c1e018582757/public_url
 
-<hr></hr>
+- Prepare Data for ML APIs on Google Cloud - https://www.credly.com/badges/ef3eeec3-6302-463e-a4e3-2c9b551b7bda/public_url
 
-### Ferramentas:
+<h2>
+Outras:
+</h2>
+<p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+- Técnico em Eletrotécnica - (Homologado CFTI).<br>
 
-<hr></hr>
+- Técnico em Rede de Computadores - (Homologado CFTI).<br>
 
-### GitHub Stats
+- Dell Certified System Expert Certification - (Desktops and Laptops).<br>
+
+</p>
+
+<h2>
+Ferramentas:
+</h2>
+
+![Apache NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=flat-square&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)&nbsp;
+
+<h2>
+Prototyping Platforms:
+</h2>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
+<h2>
+Educação:
+</h2>
+
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=flat-square&logo=Duolingo&logoColor=white)&nbsp;
+![MDN-Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat-square&logo=mdnwebdocs&logoColor=white)&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=Udemy&logoColor=white)&nbsp;
+![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=flat-square&logo=W3Schools&logoColor=white)&nbsp;
+
+
+<h2>
+Aprendendo:
+</h2>
+
+
+![Python](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
+![SQL Lite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
+
+<h2>
+GitHub Stats:
+</h2>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ygormcs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<hr></hr>
+<h2></h2>
