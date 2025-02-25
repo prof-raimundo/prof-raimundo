@@ -19,9 +19,9 @@ Conecte-se comigo:
 
 ![GitHub followers](https://img.shields.io/github/followers/prof-raimundo?style=flat-square&labelColor=blue&color=green)&nbsp;
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=green&labelColor=blue&color=62F1CD)](mailto:prof.raiworld@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiworld_sousa/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/raiworld)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/raiworld.sousa)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://https://discord.com/channels/@raiworld_one/)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@raiworld_one/)&nbsp;
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)&nbsp;
 
 <h2>
@@ -101,6 +101,8 @@ Aprendendo:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
 ![SQL Lite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
+
+![formação sql](https://user-images.githubusercontent.com/81716096/213576454-a6262b77-9c2b-48d2-9991-5622bbd8bb44.png)
 
 <h2>
 GitHub Stats:
