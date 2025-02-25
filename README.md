@@ -22,7 +22,7 @@ Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiworld/)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/raiworld.sousa)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@raiworld_one/)&nbsp;
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)&nbsp;
+[![Discord](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5588992009331)&nbsp;
 
 <h2>
 Habilidades:
